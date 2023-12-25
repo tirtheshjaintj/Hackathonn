@@ -3,7 +3,7 @@
     <h1 style="color: #007bff;">College Club Election System</h1>
     <p style="margin-bottom: 1.5em;">An efficient system for managing and conducting college club elections.</p>
   </header>
-  <h1><a href="https://exudative-capacitie.000webhostapp.com/hackathon/home.php">View Its Live Working 🔗</a></h1>
+  <h1><a href="https://exudative-capacitie.000webhostapp.com/hackathon/home.php" target="_blank">View Its Live Working 🔗</a></h1>
 
   <section>
     <h2 style="color: #004085;">Table of Contents</h2>
