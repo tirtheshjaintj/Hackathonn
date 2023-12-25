@@ -1,0 +1,39 @@
+#register{
+width:50%;
+backdrop-filter: blur(10px);
+padding:20px;
+
+border-radius: 30px; 
+background-color: rgba(0, 0, 0, 0.227);
+box-shadow: 0 0 200px rgba(255, 255, 255, 0.311);
+
+}
+label{
+    font-weight: bolder;
+}
+body {
+    font-family: 'Lato', sans-serif;
+
+
+    background-image: url('img/R.png');
+
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+  }
+  label{
+    color:white;
+  }
+
+  @media(max-width:1024px){
+
+    #register{
+        width:90%;
+    }
+
+  }

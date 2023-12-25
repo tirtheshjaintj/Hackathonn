@@ -1,0 +1,25 @@
+create table sportsvote(
+id int AUTO_INCREMENT,
+name varchar(50) not null,
+post varchar(50) not null,
+vote int not null DEFAULT 0,
+    primary key (id)
+    
+)
+
+INSERT INTO `sportsvote`
+( `name`, `post`) VALUES 
+('Tirthesh Jain','president'),
+('Suraj Singh','president'),
+('Brijesh Kumar','president')
+
+
+create table sports(
+id int AUTO_INCREMENT,
+name varchar(50) not null,
+rollno varchar(50) not null,
+club varchar(50) not null,
+password varchar(50) not null,
+    primary key (id)
+
+)
